@@ -1,0 +1,8 @@
+#Directories
+.vs/
+bin-int/
+bin/
+Debug/
+#files
+*.user
+*.gitmodules
